@@ -1,5 +1,8 @@
 # Barely minimum Bootstrap 5 WordPress starter theme [boilerplate for developers only]
 [bs5starter](https://github.com/AlexWebLab/bs5starter)
+
+## This is a fork
+
 ## Theme features:
 * minimum amount of files required for a WordPress theme (index.php and style.css)
 * Bootstrap 5 CSS & JS files enqueued (in function.php from /functions/enqueues.php)
